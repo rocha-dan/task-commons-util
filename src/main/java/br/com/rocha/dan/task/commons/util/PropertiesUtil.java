@@ -7,9 +7,6 @@ import org.slf4j.LoggerFactory;
 import java.util.ResourceBundle;
 
 
-/**
- * Created by mauriciourbanfilho on 05/10/2017.
- */
 public final class PropertiesUtil {
 
     private PropertiesUtil() {

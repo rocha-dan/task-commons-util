@@ -22,9 +22,7 @@ import java.util.TimeZone;
 
 import static java.util.Objects.nonNull;
 
-/**
- * Created by mauriciourbanfilho on 04/10/2017.
- */
+
 public final class ParserUtil {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(ParserUtil.class);

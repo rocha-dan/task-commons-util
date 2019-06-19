@@ -3,9 +3,7 @@ package br.com.rocha.dan.task.commons.util;
 import java.text.Normalizer;
 import static java.util.Objects.isNull;
 
-/**
- * Created by mauriciourbanfilho on 04/10/2017.
- */
+
 public final class StringUtil {
 
 	private StringUtil() {}

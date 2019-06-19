@@ -15,9 +15,7 @@ import java.util.List;
 
 import static java.util.Objects.nonNull;
 
-/**
- * Created by mauriciourbanfilho on 05/10/2017.
- */
+
 public class DocumentUtil {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(DocumentUtil.class);
