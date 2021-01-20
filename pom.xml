@@ -22,7 +22,7 @@
         <spring.framework.version>4.3.9.RELEASE</spring.framework.version>
         <commons.beanutils.version>1.9.3</commons.beanutils.version>
         <javax.version>2.5</javax.version>
-        <jackson.databind.version>2.9.8</jackson.databind.version>
+        <jackson.databind.version>2.9.10.7</jackson.databind.version>
         <jackson.core.version>2.9.8</jackson.core.version>
         <json.version>20141113</json.version>
         <junit.version>4.12</junit.version>
