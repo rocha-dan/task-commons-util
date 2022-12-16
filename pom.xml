@@ -19,7 +19,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
         <data.commons.version>1.13.14.RELEASE</data.commons.version>
-        <spring.framework.version>4.3.9.RELEASE</spring.framework.version>
+        <spring.framework.version>5.2.20.RELEASE</spring.framework.version>
         <commons.beanutils.version>1.9.3</commons.beanutils.version>
         <javax.version>2.5</javax.version>
         <jackson.databind.version>2.9.8</jackson.databind.version>
